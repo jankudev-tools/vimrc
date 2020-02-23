@@ -4,9 +4,9 @@ set clipboard=unnamed	" use system clipboard
 set fileformat=unix	" file formatting
 set encoding=utf-8
 
-set tabstop=4		" formatting of spaces
-set softtabstop=4
-set shiftwidth=4
+set tabstop=2		" formatting of spaces
+set softtabstop=2
+set shiftwidth=2
 set textwidth=79
 set expandtab
 
