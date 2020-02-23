@@ -22,3 +22,27 @@ On the first run of the Vim I need to install the defined plugins:
 ```
 
 And there I have a nice IDE.
+
+## Usage
+### Python
+#### Splits
+Default splitting is verticaly. Shortcuts:
+* __Ctrl + J__ - move to split below
+* __Ctrl + K__ - move to split above
+* __Ctrl + H__ - move to split left
+* __Ctrl + L__ - move to split right
+
+#### Folding
+Just use __Space__ to fold/unfold.
+
+#### File explorer
+Use commands:
+* __:Explore__ - open explorer
+* __:Sexplore__ - open explorer horizontaly
+* __:Vexplore__ - open explorer verticaly
+
+#### Goto
+Just use __Space + G__.
+
+#### Light/Dark theme switching
+Just use __F5__.
